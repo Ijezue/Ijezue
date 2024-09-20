@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Ijezue, a master's student in computer science.
-- 👀 I’m interested in AI and blockchain
-- 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to collaborate on projects focused on machine learning, data analysis, and blockchain development.
-- 📫 How to reach me? send a mail to "cijezue@gmail.com"
+- 👀 I’m interested in AI and cybersecurity
+- 💞️ I’m looking to collaborate on projects focused on machine learning, data analysis, and cybersecurity.
